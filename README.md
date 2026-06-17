@@ -60,7 +60,7 @@ mingw32-make
 ./BoidFlocking.exe
 ```
 ## screenshot
-https://raw.githubusercontent.com/snehal-thombare08/Boid-Flocking-/main/Screenshot%202026-06-17%20115544.png
+![Boid Flocking Preview](https://raw.githubusercontent.com/snehal-thombare08/Boid-Flocking-/main/Screenshot%202026-06-17%20115544.png)
 
 ## 📦 Download
 
